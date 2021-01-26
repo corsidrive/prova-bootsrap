@@ -7,7 +7,7 @@
 
 ## TODO:
 
-- [ ] **t1 colonne 1/3 - 2/3** 
-- [ ] t2 mettere menu navigazione
+- [x] **task1 colonne 1/3 - 2/3** 
+- [ ] **task2 mettere menu navigazione**
 
 
